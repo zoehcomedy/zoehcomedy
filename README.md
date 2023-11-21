@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Zoe!
 - 👀 I’m interested in legacy iPhones, Apple dualbooting, and legacy jailbreaking :)
-- 🌱 I’m currently working on dualbooting my iPhone 6 from iOS 12.5.7 to iOS 11.4 using Divise and Ramiel. My next project will be dualbooting my iPhone 8 from the latestiOS 16 to iOS 15/14/or anything lower. Thanks for reading! ✨
+- 🌱 Succesfully downgraded my iPhone 6 from iOS 12.5.7 to iOS 11.4 with the help of MatthewPierson's Divise and Ramiel toools!
+- ✨ Next project will likely be downgrading an iPhone 5S to iOS 10.3.3, hopefully!
   
 
 <!---
