@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Zoe!
-- 👀 I’m interested in legacy iPhones, Apple dualbooting, and legacy jailbreaking :)
-- 🌱 Succesfully downgraded my iPhone 6 from iOS 12.5.7 to iOS 11.4 with the help of MatthewPierson's Divise and Ramiel toools!
-- ✨ Next project will likely be downgrading an iPhone 5S to iOS 10.3.3, hopefully!
+- 👋 sup, im zoe!
+- 👀 i’m interested in legacy iphones, cool tech stuff ™, failing and attempting to flash roms, Appl, and legacy jailbreaking :)
+- 🌱 my first project was downgrading my iPhone 6 in September 2023 from iOS 12.5.7 to iOS 11.4 with the help of MatthewPierson's Divise and Ramiel toools!
+- ✨ my next project will hopefully be downgrading an ipad mini 3 to ios 9.3.x using y08wilm's Semaphorin project!
+
+
+dream phones because fun
+- pixel 1
+- iphone se 3
+- samsung s4/s5
+- iphone 5c
+- nothing phone 2
+
+
   
 
 <!---
